@@ -1,0 +1,5 @@
+{
+  "message": "hospitalDetailsData is not iterable",
+  "stack": "TypeError: hospitalDetailsData is not iterable\n    at seedData (C:\\Users\\noad8\\Downloads\\New folder (2)\\New folder\\backend\\seedData.cjs:96:26)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)",
+  "errors": null
+}
